@@ -1,2 +1,3 @@
 VELAMAKANNI ARUNA
 I have learned how to create a repository in GitHub
+I learned how to upload my file in GitHub
